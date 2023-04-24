@@ -33,3 +33,11 @@ Get in folder `stethoscope-clip`
 ![Stethoscope clip 1](./stethoscope-clip/images/1.png)
 ![Stethoscope clip 2](./stethoscope-clip/images/2.png)
 ![Stethoscope clip 3](./stethoscope-clip/images/3.jpg)
+
+## Ear speculum
+
+This is an ear speculum or ear piece used with otoscope
+
+Get in folder `ear-speculum`
+
+![Ear speculum 1](./ear-speculum/images/1.png)
