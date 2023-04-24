@@ -23,8 +23,8 @@ This is a stethoscope clipper or name tag
 
 Possible improvements:
 
-    - Two lines Text
-    - Add ability to print logo, using SVG for example
+- Two lines Text
+- Add ability to print logo, using SVG for example
 
 Printing upright is recommended like the Cura screenshot
 
